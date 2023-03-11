@@ -1,0 +1,247 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    position: absolute;
+    margin-top: 73px;
+    height: 28px;
+    width: 42px;
+    left: 115px;
+}
+.background{
+width: 100%;
+height: 100%;
+}
+.home{
+    color: #FBB034;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 16px;
+    position: absolute;
+    width: 47px;
+    height: 16px;
+    left: 670.31px;
+    top: 71px;
+}
+.aboutus{
+    color: #FFFFFF;
+    position: absolute;
+    width: 71px;
+    height: 16px;
+    left: 767.31px;
+    top: 71px;
+}
+.contact{
+    color: #FFFFFF;
+    position: absolute;
+    width: 63px;
+    height: 16px;
+    top: 71px;
+    left: 1004.31px;
+    line-height: 16px;
+}
+.services{
+    color: #FFFFFF;
+    position: absolute;
+    width: 66px;
+    height: 16px;
+    left: 888.31px;
+    top: 71px;
+    line-height: 16px;
+}
+.container{
+position: absolute;
+width: 182px;
+height: 52px;
+left: 1168.31px;
+top: 53px;
+background-color: #FBB034;
+display: flex;
+padding: 18px, 53px, 18px, 53px;
+}
+.container2{
+    position: absolute;
+    width: 182px;
+    height: 52px;
+    margin-left: -1050px;
+    top: 639px;
+    background-color: #FBB034;
+}
+.booknow{
+    width: 76px;
+    height: 16px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;    
+    color: #000000;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.welcome{
+    color: #FBB034;
+    width: 155px;
+    height: 17px;
+    top: 342px;
+    left: 115.31px;
+    position: absolute;
+    font-weight: 400;
+    font-size: 16px;
+}
+.parikmaxer{
+position: absolute;
+width: 720px;
+height: 625px;
+left: 720.31px;
+top: 206px;
+}
+.header1{
+    position: absolute;
+    width: 513px;
+    height: 90px;
+    left: 115.31px;
+    top: 381px;
+    font-size: 48px;
+    color: #FFFFFF;
+    font-weight: 700;
+}
+.header2{
+    width: 389px;
+    height: 66px;
+    top: 493px;
+    position: absolute;
+    left: 115.31px;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 22.37px;
+    color: #9A9A9A;
+}
+.container3{
+    width: 182px;
+    height: 53px;
+    margin-left: 222px;
+    margin-top: -34px;
+    border: 1px solid #FFFFFF;
+    background-color: #4e4e4e;
+    background-color: transparent;
+}
+.allservices{
+    width: 76px;
+    height: 16px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;    
+    color: #ffffff;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.rectangle2{
+    width: 100%;
+    height: 100%;
+}
+.blackandwhite{
+    position: absolute;
+    width: 161px;
+    height: 118px;
+    left: 437px;
+    top: 931px;
+}
+.photo2{
+    width: 188px;
+    height: 282px;
+    position: absolute;
+    top: 931px;
+    left: 223.31px;
+}
+.photo3{
+    position: absolute;
+    width: 245px;
+    height: 320px;
+    top: 1087px;
+    left: 369.31px;
+    background: #FFFFFF;
+    border: 14px solid #FFFFFF;
+}
+.ABOUT{
+    position: absolute;
+    top: 1027px;
+    left: 609.31px;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 60.48px;
+    color: #ededed;
+}
+.Yellowaboutus{
+    position: absolute;
+    width: 70px;
+    height: 19px;
+    top: 986px;
+    left: 767.31px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19.17px;
+    color: #FBB034;
+}
+.slogan{
+    width: 451px;
+    height: 90px;
+    position: absolute;
+    top: 1029px;
+    left: 767.31px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 45.36px;
+    color: #000000;
+}
+.exlpanation{
+    position: absolute;
+    width: 401px;
+    height: 57px;
+    left: 767.31px;
+    top: 1132px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+    color: #565656;
+}
+.container4{
+    position: absolute;
+    width: 188px;
+    height: 52px;
+    top: 1232px;
+    left: 767.31px;
+    background-color: #FBB034;
+}
+.readmore{
+    position: absolute;
+    width: 82px;
+    height: 16px;
+    top: 18px;
+    left: 53px;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 15.98px;
+}
+.copyright{
+    width: 47px;
+    height: 42px;
+    margin-top: 1;
+    margin-left: 530px;
+}
+.vectordiv{
+    position: absolute;
+    width: 42px;
+    height: 28px;
+    top: 73px;
+    left: 115px;
+}
+.vector{
+    position: absolute;
+    width: 42px;
+    height: 28px;
+    top: 73px;
+    left: 115px;
+}
